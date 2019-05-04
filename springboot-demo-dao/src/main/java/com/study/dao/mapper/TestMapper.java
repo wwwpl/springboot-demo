@@ -1,7 +1,7 @@
-package com.china.wf.dao.mapper;
+package com.study.dao.mapper;
 
 /**
- * @author wangfei
+ * @author F.W
  * @date 2018/9/14 15:49
  */
 public class TestMapper {

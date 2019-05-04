@@ -1,7 +1,7 @@
-package com.china.wf.service;
+package com.study.service;
 
 /**
- * @author wangfei
+ * @author F.W
  * @date 2018/9/14 15:49
  */
 public class TestService {
